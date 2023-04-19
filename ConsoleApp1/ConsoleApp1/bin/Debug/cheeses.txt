@@ -1,0 +1,3 @@
+brnd1;nm1;1
+brnd2;nm2;2
+brnd3;nm3;3
